@@ -39,3 +39,7 @@ git commit -m "Day 1: Linux basics and simple scripts"
 git remote add origin https://github.com/hassan531/devops-bootcamp.git
 git branch -M main
 git push -u origin main
+
+## Day 2 Progress
+- Learned grep & text manipulation
+- Practiced git branching workflow
