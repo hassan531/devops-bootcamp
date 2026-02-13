@@ -1,0 +1,11 @@
+2026-02-12 08:00:01 INFO Server started on port 3000
+2026-02-12 08:00:15 INFO Database connected
+2026-02-12 08:01:23 ERROR Failed to connect to Redis
+2026-02-12 08:01:45 WARN High memory usage: 85%
+2026-02-12 08:02:10 INFO User login: alice@example.com
+2026-02-12 08:02:34 ERROR Timeout on API call to /api/users
+2026-02-12 08:03:12 INFO User login: bob@example.com
+2026-02-12 08:03:45 ERROR Database query failed: SELECT * FROM users
+2026-02-12 08:04:22 WARN Disk space low: 90% used
+2026-02-12 08:05:10 INFO Cache cleared successfully
+2026-02-12 08:05:55 ERROR Connection refused: external API
